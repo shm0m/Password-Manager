@@ -1,5 +1,5 @@
-('C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
- 'passe\\build\\secure\\secure.pkg',
+('C:\\Users\\shaim\\Desktop\\Projets '
+ 'Personnels\\Password-Manager\\build\\secure\\secure.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -11,28 +11,28 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\PYZ-00.pyz',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\localpycs\\struct.pyc',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -50,8 +50,7 @@
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
    'PYSOURCE'),
   ('secure',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\secure.py',
+   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Password-Manager\\secure.py',
    'PYSOURCE'),
   ('python313.dll',
    'C:\\Program '
@@ -154,20 +153,20 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\python3.dll',
    'BINARY'),
-  ('cryptography-45.0.6.dist-info\\licenses\\LICENSE.APACHE',
-   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\licenses\\LICENSE.APACHE',
-   'DATA'),
   ('cryptography-45.0.6.dist-info\\METADATA',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\METADATA',
    'DATA'),
   ('cryptography-45.0.6.dist-info\\INSTALLER',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\INSTALLER',
    'DATA'),
-  ('cryptography-45.0.6.dist-info\\licenses\\LICENSE.BSD',
-   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\licenses\\LICENSE.BSD',
+  ('cryptography-45.0.6.dist-info\\licenses\\LICENSE.APACHE',
+   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\licenses\\LICENSE.APACHE',
    'DATA'),
   ('cryptography-45.0.6.dist-info\\RECORD',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-45.0.6.dist-info\\licenses\\LICENSE.BSD',
+   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\licenses\\LICENSE.BSD',
    'DATA'),
   ('cryptography-45.0.6.dist-info\\REQUESTED',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\REQUESTED',
@@ -178,24 +177,24 @@
   ('cryptography-45.0.6.dist-info\\WHEEL',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\cryptography-45.0.6.dist-info\\WHEEL',
    'DATA'),
-  ('attrs-25.3.0.dist-info\\licenses\\LICENSE',
-   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\licenses\\LICENSE',
-   'DATA'),
-  ('attrs-25.3.0.dist-info\\METADATA',
-   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\METADATA',
-   'DATA'),
   ('attrs-25.3.0.dist-info\\WHEEL',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\WHEEL',
-   'DATA'),
-  ('attrs-25.3.0.dist-info\\RECORD',
-   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\RECORD',
    'DATA'),
   ('attrs-25.3.0.dist-info\\INSTALLER',
    'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\INSTALLER',
    'DATA'),
+  ('attrs-25.3.0.dist-info\\METADATA',
+   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-25.3.0.dist-info\\RECORD',
+   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-25.3.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\shaim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\attrs-25.3.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
   ('base_library.zip',
-   'C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
-   'passe\\build\\secure\\base_library.zip',
+   'C:\\Users\\shaim\\Desktop\\Projets '
+   'Personnels\\Password-Manager\\build\\secure\\base_library.zip',
    'DATA')],
  'python313.dll',
  False,

@@ -1,5 +1,5 @@
-('C:\\Users\\shaim\\Desktop\\Projets Personnels\\Gestionnaire de mots de '
- 'passe\\build\\secure\\PYZ-00.pyz',
+('C:\\Users\\shaim\\Desktop\\Projets '
+ 'Personnels\\Password-Manager\\build\\secure\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
