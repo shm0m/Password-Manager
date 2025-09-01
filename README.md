@@ -24,7 +24,7 @@ Un gestionnaire de mots de passe simple en Python qui permet de stocker, chiffre
 1. Clonez le dépôt :
    ```sh
    git clone <url-du-repo>
-   cd Password-Manager-1
+   cd Password-Manager
    ```
 
 2. Installez les dépendances :
