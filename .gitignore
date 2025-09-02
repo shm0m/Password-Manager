@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+passwords.db
+*.sql
+
+# Environment variables
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyInstaller build folders
+dist/
+build/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
