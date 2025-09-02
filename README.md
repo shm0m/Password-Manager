@@ -1,57 +1,56 @@
 # Password Manager
 
-Un gestionnaire de mots de passe simple en Python qui permet de stocker, chiffrer et récupérer vos mots de passe de façon sécurisée.
+A simple password manager in Python that allows you to securely store, encrypt, and retrieve your passwords.
 
-## Fonctionnalités
+## Features
 
-- Ajout de mots de passe pour différents sites
-- Récupération des mots de passe enregistrés
-- Liste des sites enregistrés
-- Chiffrement des mots de passe avec une clé dérivée d’un mot de passe maître
-- Interface en ligne de commande interactive
+- Add passwords for different websites
+- Retrieve saved passwords
+- List registered websites
+- Encrypt passwords with a key derived from a master password
+- Interactive command-line interface
 
-## Prérequis
+## Prerequisites
 
 - Python 3.13
 - MySQL Server
-- Les modules suivants :
-  - `mysql-connector-python`
-  - `cryptography`
-  - `rich`
+- The following modules:
+   - `mysql-connector-python`
+   - `cryptography`
+   - `rich`
 
 ## Installation
 
-1. Clonez le dépôt :
-   ```sh
-   git clone <url-du-repo>
-   cd Password-Manager
-   ```
+1. Clone the repository:
+    ```sh
+    git clone <repo-url>
+    cd Password-Manager
+    ```
 
-2. Installez les dépendances :
-   ```sh
-   pip install mysql-connector-python cryptography rich
-   ```
+2. Install dependencies:
+    ```sh
+    pip install mysql-connector-python cryptography rich
+    ```
 
-3. Configurez votre base MySQL :
-   - Créez une base de données nommée `password_manager`
-   - Modifiez les paramètres de connexion dans [`secure.py`](secure.py) si besoin
+3. Configure your MySQL database:
+    - Create a database named `password_manager`
+    - Edit the connection settings in [`secure.py`](secure.py) if needed
 
-## Utilisation
+## Usage
 
-Lancez le script principal :
+Run the main script:
 ```sh
 python secure.py
 ```
 
-Suivez les instructions à l’écran pour ajouter, récupérer ou lister vos mots de passe.
+Follow the on-screen instructions to add, retrieve, or list your passwords.
 
-## Sécurité
+## Security
 
-- Les mots de passe sont chiffrés avec Fernet (AES) avant d’être stockés en base.
-- Le mot de passe maître est utilisé pour dériver la clé de chiffrement.
-- Ne partagez jamais votre mot de passe maître.
+- Passwords are encrypted with Fernet (AES) before being stored in the database.
+- The master password is used to derive the encryption key.
+- Never share your master password.
 
-## Auteur
+## Author
 
-Shaima DEROUICH 
-
+Shaima DEROUICH
